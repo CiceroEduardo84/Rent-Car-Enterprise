@@ -20,9 +20,8 @@
 ---
 
 ## 🎨 Layout
-    Temos Html semântico
--
-    <img src="![alt](https://)">
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+ ![Captura de Tela (447)](https://github.com/CiceroEduardo24/Rent-Car-Enterprise/assets/132598847/eab4c7ee-dd25-4026-b6f1-108d6f25575f)
 ---
 
 ## 📌 Como executar o projeto
