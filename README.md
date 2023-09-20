@@ -1,6 +1,3 @@
-# Car-Rent
-
-## Projeto para conclusão de módulo HTML e CSS do Curso do Desenvolvimento Web
 <h2 align="center"> 
 	Landing page - Rent Car Enterprise 💻
 </h2>
@@ -20,8 +17,12 @@
 ---
 
 ## 🎨 Layout
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
- ![Captura de Tela (447)](https://github.com/CiceroEduardo24/Rent-Car-Enterprise/assets/132598847/eab4c7ee-dd25-4026-b6f1-108d6f25575f)
+
+-Uso de html semêntico:
+
+![Captura de Tela (447)](https://github.com/CiceroEduardo24/Rent-Car-Enterprise/assets/132598847/eab4c7ee-dd25-4026-b6f1-108d6f25575f)
+
+-
 ---
 
 ## 📌 Como executar o projeto
@@ -46,11 +47,11 @@ $ execute o arquivo index.html
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
--
+- **[HTML](https://html.com/)**
     <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
--   **[HTML](https://html.com/)**
-      <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 -   **[CSS](https://www.w3.org/Style/CSS/Overview.en.html)**
+      <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
 
 ---
 
