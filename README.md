@@ -54,14 +54,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ---
-
-## 👩🏻‍💻 Autor
-
-<a href="https://github.com/danilalucas">
- <sub><b></b></sub></a> <a href="https://github.com/danilalucas" title="Profile"></a>
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Danila%20Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dan%C3%ADla-lucas/)](https://www.linkedin.com/in/dan%C3%ADla-lucas/) 
-[![Gmail Badge](https://img.shields.io/badge/-danilatemoteolucas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilatemoteolucas@gmail.com)](mailto:danilatemoteolucas@gmail.com)
-
-Feito com ❤️ por Daníla Lucas 👋🏽 [Entre em contato!](https://www.linkedin.com/in/dan%C3%ADla-lucas/)
