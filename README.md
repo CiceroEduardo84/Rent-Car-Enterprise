@@ -58,9 +58,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 👩🏻‍💻 Autor
 
 <a href="https://github.com/danilalucas">
- <img src="https://avatars.githubusercontent.com/u/80535640?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Daníla Lucas</b></sub></a> <a href="https://github.com/danilalucas" title="Profile"></a>
+ <sub><b></b></sub></a> <a href="https://github.com/danilalucas" title="Profile"></a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danila%20Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dan%C3%ADla-lucas/)](https://www.linkedin.com/in/dan%C3%ADla-lucas/) 
