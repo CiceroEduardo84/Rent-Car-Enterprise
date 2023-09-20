@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-estrutura">Layout</a> • 
+ <a href="#-estrutura">Estrutura</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> •  
 </p> 
