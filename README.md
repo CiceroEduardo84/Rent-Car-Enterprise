@@ -44,7 +44,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:CiceroEduardo24/Rent-Car-Enterprise.git
+$ git clone git@github.com:CiceroEduardo84/Rent-Car-Enterprise.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Rent-Car
 # Execute a aplicação
